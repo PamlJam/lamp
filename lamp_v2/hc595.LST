@@ -1,0 +1,12 @@
+C51 COMPILER V9.01   HC595                                                                 05/18/2022 20:11:46 PAGE 1   
+
+
+C51 COMPILER V9.01, COMPILATION OF MODULE HC595
+OBJECT MODULE PLACED IN hc595.OBJ
+COMPILER INVOKED BY: E:\keil\C51\BIN\C51.EXE hc595.c BROWSE DEBUG OBJECTEXTEND
+
+line level    source
+
+*** ERROR C318 OF hc595.c: can't open file 'hc595.c'
+
+C51 COMPILATION COMPLETE.  0 WARNING(S),  1 ERROR(S)

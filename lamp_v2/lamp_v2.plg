@@ -1,0 +1,18 @@
+<html>
+<body>
+<pre>
+<h1>µVision Build Log</h1>
+<h2>Project:</h2>
+C:\Users\16062\Desktop\lamp_v2\lamp_v2.uvproj
+Project File Date:  05/18/2022
+
+<h2>Output:</h2>
+Build target 'Target 1'
+assembling STARTUP.A51...
+compiling lamp_v2.c...
+LAMP_V2.C(122): warning C206: 'LCD_Init': missing function-prototype
+LAMP_V2.C(134): warning C206: 'Multiple_Read_BH1750': missing function-prototype
+linking...
+Program Size: data=59.2 xdata=0 code=2668
+creating hex file from "lamp_v2"...
+"lamp_v2" - 0 Error(s), 2 Warning(s).

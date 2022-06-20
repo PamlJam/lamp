@@ -1,0 +1,4 @@
+"STARTUP.obj",
+"lamp_v2.obj" 
+TO "lamp_v2" 
+RAMSIZE(256) 
